@@ -1,0 +1,21 @@
+[submodule "infrastructure"]
+	path = infrastructure
+	url = ../infrastructure.git
+[submodule "common"]
+	path = common
+	url = ../common.git
+[submodule "auth"]
+	path = auth
+	url = ../auth.git
+[submodule "version-catalog"]
+	path = version-catalog
+	url = ../version-catalog.git
+[submodule "stock-collector"]
+	path = stock-collector
+	url = ../stock-collector.git
+[submodule "stock-market"]
+	path = stock-market
+	url = ../stock-market.git
+[submodule "leader-election-lib"]
+	path = leader-election-lib
+	url = ../leader-election-lib.git
